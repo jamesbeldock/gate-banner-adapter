@@ -25,4 +25,24 @@ SOFTWARE.
 FURTHER SAFETY INFORMATION 
 
 Disclaimer
-This circuit board design and all associated files, schematics, and documentation (collectively, the "Design") are provided under the MIT License on a strictly "AS IS" basis, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, electrical safety, regulatory compliance, or suitability for use with any specific driveway gate controller. The Design interfaces with the output terminals of a physical, mains- or low-voltage-powered gate controller that operates heavy mechanical equipment capable of causing serious property damage, severe personal injury, or death; correct and safe use therefore requires that the user possess (i) thorough familiarity with the specific gate controller's manufacturer documentation, wiring diagrams, safety interlocks, and operating limits, (ii) competence in low-voltage and, where applicable, line-voltage electrical work, and (iii) compliance with all applicable local, state, national, and industry codes and standards (including, where relevant, UL 325, ASTM F2200, and the National Electrical Code or local equivalent). By downloading, fabricating, assembling, installing, modifying, or otherwise using the Design, you assume all risk and sole responsibility for its operation and consequences, and you agree that neither XECUTE Ventures, LLC nor James Beldock, in his capacity as managing member or individually, nor any contributor to the Design, shall have any liability whatsoever—whether in contract, tort (including negligence), strict liability, or otherwise—for any direct, indirect, incidental, special, consequential, exemplary, or punitive damages arising out of or in connection with the Design or its use, even if advised of the possibility of such damages.
+This circuit board design and all associated files, schematics, and documentation
+(collectively, the "Design") are provided under the MIT License on a strictly "AS IS"
+basis, without warranty of any kind, express or implied, including but not limited to
+warranties of merchantability, fitness for a particular purpose, non-infringement, 
+electrical safety, regulatory compliance, or suitability for use with any specific 
+driveway gate controller. The Design interfaces with the output terminals of a physical,
+mains- or low-voltage-powered gate controller that operates heavy mechanical equipment 
+capable of causing serious property damage, severe personal injury, or death; correct 
+and safe use therefore requires that the user possess (i) thorough familiarity with 
+the specific gate controller's manufacturer documentation, wiring diagrams, safety 
+interlocks, and operating limits, (ii) competence in low-voltage and, where applicable, 
+line-voltage electrical work, and (iii) compliance with all applicable local, state, 
+ational, and industry codes and standards (including, where relevant, UL 325, ASTM F2200, 
+and the National Electrical Code or local equivalent). By downloading, fabricating, 
+assembling, installing, modifying, or otherwise using the Design, you assume all risk 
+and sole responsibility for its operation and consequences, and you agree that neither 
+XECUTE Ventures, LLC nor James Beldock, in his capacity as managing member or individually, 
+nor any contributor to the Design, shall have any liability whatsoever—whether in contract, 
+tort (including negligence), strict liability, or otherwise—for any direct, indirect, incidental, 
+special, consequential, exemplary, or punitive damages arising out of or in connection with the 
+Design or its use, even if advised of the possibility of such damages.
